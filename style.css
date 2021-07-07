@@ -1,13 +1,21 @@
 h1 {
-  display: inline-block;
+  /* display: inline-block; */
   background-color: brown;
 }
 span {
-  display: block;
-  height: 20px;
+  /* display: inline-block; */
+  /* width: 200px;
+  height: 200px; */
+  /* margin: 500px; */
+
   background-color: burlywood;
 }
 p {
-  display: inline-block;
+  /* height: 50px;
+  width: 200px; */
+  /* display: inline-block; */
   background-color: burlywood;
+}
+div {
+  background-color: cadetblue;
 }
